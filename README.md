@@ -1,6 +1,8 @@
 
 ## Setup on Windows (VS Code)
 
+🚀 [Try Live Demo](https://ai-quiz-generator-demo-rbc7.onrender.com/)
+
 1. Extract this ZIP and open the **my_Project** folder in VS Code.
 2. In the terminal, run:
 
